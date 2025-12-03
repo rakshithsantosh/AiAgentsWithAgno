@@ -8,4 +8,5 @@ dependencies = [
     "agno>=2.3.4",
     "openai>=2.8.1",
     "python-dotenv>=1.2.1",
+    "sqlalchemy>=2.0.44",
 ]
